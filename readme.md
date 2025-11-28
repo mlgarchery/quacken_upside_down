@@ -17,7 +17,7 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 Once QMK setup is done, clone this repository inside your existing [qmk_firmware](https://github.com/qmk/qmk_firmware) repository:
 
 ```sh
-git submodule add https://github.com/trilowy/quacken-qmk.git keyboards/quacken
+git submodule add https://github.com/mlgarchery/quacken_upside_down.git keyboards/quacken_upside_down
 ```
 
 Build the default keymap:
