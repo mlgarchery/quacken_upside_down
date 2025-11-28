@@ -1,6 +1,10 @@
 # Quacken
 
-![quacken](TODO: nice picture)
+🤦 
+<img width="1452" height="1558" alt="image" src="https://github.com/user-attachments/assets/161b14bb-3abb-4325-a347-9183b0508fe3" />
+
+Wait this isn't lost:
+
 
 QMK firmware for the [Quacken](https://github.com/Nuclear-Squid/Quacken) keyboard, a 3x6+3 on each hand unibody keyboard with Kailh Choc switches.
 
